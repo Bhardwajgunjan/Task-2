@@ -22,3 +22,10 @@ TECHNOLOGIES USED
 1. HTML: The HTML is the standard markup language for Web pages and to design ToDo List.
 2. CSS:  CSS is the language we use to style ToDo List. CSS describes how HTML elements should be displayed.
 3. JAVASCRIPT: JavaScript is a scripting language used to develop web pages. Developed in Netscape, JS allows developers to create a dynamic and interactive web page to interact with visitors and execute complex actions.
+
+OVERVIEW OF THR PROJECT
+PROJECT: TO DO LIST
+![Screenshot (34)](https://github.com/user-attachments/assets/954cc93a-d07b-4e3c-8cd0-2a12e0a535f8)
+![Screenshot (33)](https://github.com/user-attachments/assets/d3653e1f-8c6f-4088-9a57-ab4d4eaf32cb)
+
+
